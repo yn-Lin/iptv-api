@@ -1,6 +1,6 @@
 from typing import TypedDict, Literal, Union
 
-OriginType = Literal["local", "whitelist", "subscribe", "hotel", "multicast", "online_search"]
+OriginType = Literal["live", "hls", "local", "whitelist", "subscribe", "hotel", "multicast", "online_search"]
 IPvType = Literal["ipv4", "ipv6", None]
 
 
@@ -8,7 +8,9 @@ class ChannelData(TypedDict):
     """
     Channel data types, including url, date, resolution, origin and ipv_type
     """
+    id: int
     url: str
+    host: str
     date: str | None
     resolution: str | None
     origin: OriginType
