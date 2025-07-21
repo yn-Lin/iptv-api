@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-21 06:20:11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
+2025-07-21 18:24:15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -840,8 +840,6 @@ CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 山东教育,http://z.b.bkpcp.top/m.php?id=sdjy
 山东教育,http://goo.bkpcp.top/mg/sdjy
 山东生活,http://ls.qingting.fm/live/60260.m3u8
-临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
-临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
 ☘️山西频道,#genre#
 
